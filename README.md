@@ -17,7 +17,7 @@ A comprehensive Salesforce Apex library that provides a clean, type-safe, and ex
 - **Sandbox:** [https://test.salesforce.com/packaging/installPackage.apexp?p0=04tQm000002zB8fIAE](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tQm000002zB8fIAE)
 - **CLI:** `sf package install --package 04tQm000002zB8fIAE --wait 10 --installation-key-bypass`
 
-<details><summary>Change summary</summary>
+<details><summary>Change summary</summary></details>
 
 **Package Version ID:** 04tQm000002zB8fIAE
 <!--LATEST-RELEASE-END-->
